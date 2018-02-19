@@ -13,6 +13,7 @@
 #import "RCTTextField.h"
 #import "RCTUITextField.h"
 #import "RNTextInputMask.h"
+#import <ReactNativeTextInputMask/ReactNativeTextInputMask-Swift.h>
 
 @import InputMask;
 
